@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MenuClass</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_item">Menu Item</string>
+    <string name="title_activity_options_menu_dynamic">OptionsMenuDynamic</string>
+    <string name="title_activity_context_menu_example">ContextMenuExample</string>
+    <string name="title_activity_context_menu_dyno_matic">ContextMenuDynoMatic</string>
+</resources>
